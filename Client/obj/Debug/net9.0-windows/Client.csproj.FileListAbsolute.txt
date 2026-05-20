@@ -1,0 +1,16 @@
+D:\KC\Random\Assessment\Client\bin\Debug\net9.0-windows\Client.exe
+D:\KC\Random\Assessment\Client\bin\Debug\net9.0-windows\Client.deps.json
+D:\KC\Random\Assessment\Client\bin\Debug\net9.0-windows\Client.runtimeconfig.json
+D:\KC\Random\Assessment\Client\bin\Debug\net9.0-windows\Client.dll
+D:\KC\Random\Assessment\Client\bin\Debug\net9.0-windows\Client.pdb
+D:\KC\Random\Assessment\Client\obj\Debug\net9.0-windows\Client.Form1.resources
+D:\KC\Random\Assessment\Client\obj\Debug\net9.0-windows\Client.csproj.GenerateResource.cache
+D:\KC\Random\Assessment\Client\obj\Debug\net9.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\KC\Random\Assessment\Client\obj\Debug\net9.0-windows\Client.AssemblyInfoInputs.cache
+D:\KC\Random\Assessment\Client\obj\Debug\net9.0-windows\Client.AssemblyInfo.cs
+D:\KC\Random\Assessment\Client\obj\Debug\net9.0-windows\Client.csproj.CoreCompileInputs.cache
+D:\KC\Random\Assessment\Client\obj\Debug\net9.0-windows\Client.dll
+D:\KC\Random\Assessment\Client\obj\Debug\net9.0-windows\refint\Client.dll
+D:\KC\Random\Assessment\Client\obj\Debug\net9.0-windows\Client.pdb
+D:\KC\Random\Assessment\Client\obj\Debug\net9.0-windows\Client.genruntimeconfig.cache
+D:\KC\Random\Assessment\Client\obj\Debug\net9.0-windows\ref\Client.dll
